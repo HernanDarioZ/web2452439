@@ -5,10 +5,19 @@
 }
 
 header {
+
     background-color: blue;
 }
 
 footer{
+
     background-color: brown;
     height: 15vh;
 }
+
+section{
+
+    background-color: chocolate;
+
+}
+
